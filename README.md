@@ -1,18 +1,32 @@
 # Aboutme
 
+# Raghav Ahuja
+
+## 👨‍💻 About Me
+
 Hi! I'm Raghav Ahuja, currently pursuing B.Sc. (Hons.) Computer Science at Shaheed Sukhdev College of Business Studies (SSCBS), University of Delhi.
 
-I am interested in the intersection of:
+## 🛠️ Skills
 
-💻 Computer Science
-📊 Data & Business Analytics
-💰 Finance & Economics
-🤖 Artificial Intelligence
+- Python
+- Microsoft Excel
+- Git & GitHub
 
-My long-term goal is to pursue an MBA and build a career in management, business, finance, or technology-driven roles. I aim to develop a strong combination of technical, analytical, and business skills during my undergraduate journey.
+## 📂 Projects
 
-##Interests 
-1. Technology
-2. Finance
-3. Cricket
-4. Music
+### Cold Storage Connect
+A project aimed at connecting farmers with cold storage facilities.
+
+### FMCG Demand Analysis
+An economics project analysing consumer demand for shampoo.
+
+## 🎓 Education
+
+**Shaheed Sukhdev College of Business Studies, University of Delhi**  
+B.Sc. (Hons.) Computer Science | 2026–Present
+
+## 🎯 Career Goal
+
+My long-term goal is to pursue an MBA and build a career combining technology, business, finance, and management.
+
+## 📫 Contact
