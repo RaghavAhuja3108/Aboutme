@@ -8,3 +8,11 @@ Hi! I'm Raghav Ahuja, currently pursuing B.Sc. (Hons.) Computer Science at Shahe
 📊 Data & Business Analytics
 💰 Finance & Economics
 🤖 Artificial Intelligence
+
+📫 Contact
+
+Raghav Ahuja
+
+LinkedIn: Your LinkedIn
+GitHub: Your GitHub
+Email: your.email@gmail.com
