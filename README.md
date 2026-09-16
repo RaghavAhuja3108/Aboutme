@@ -1,53 +1,81 @@
-Raghav Ahuja
-👨‍💻 About Me
+# Raghav Ahuja
 
-Hi! I'm Raghav Ahuja, currently pursuing B.Sc. (Hons.) Computer Science at Shaheed Sukhdev College of Business Studies (SSCBS), University of Delhi.
+---
 
-I am interested in the intersection of technology, business, finance, economics, and management. I am currently building my technical and analytical skills while exploring how technology can be applied to solve real-world business problems.
+##  About Me
 
-My long-term goal is to pursue an MBA and build a career in management, business, finance, or technology-driven roles. I aim to develop a strong combination of technical, analytical, and business skills during my undergraduate journey.
+Hello, I'm **Raghav Ahuja**, currently pursuing **B.Sc. (Hons.) Computer Science at Shaheed Sukhdev College of Business Studies (SSCBS), University of Delhi**.
 
-🎓 Education
-Shaheed Sukhdev College of Business Studies (SSCBS)
+I am interested in the intersection of **technology, finance, economics, and business**. I am currently developing my technical and analytical skills through programming, computer science, and various academic and college projects.
 
-University of Delhi
-B.Sc. (Hons.) Computer Science
+My long-term goal is to **pursue an MBA** and build a career combining **technology, business, finance, and management**.
+
+---
+
+##  Education
+
+### Shaheed Sukhdev College of Business Studies (SSCBS)
+
+**University of Delhi**  
+**B.Sc. (Hons.) Computer Science**  
 2026 – Present
 
-Delhi Public School, Noida
+### Delhi Public School, Noida
 
-2012 – 2026
+**2012 – 2026**
 
-Class 10th: 94%
-Class 12th: 91%
-Stream: Humanities with Mathematics
-🛠️ Skills
-Programming: Python
-Web Development: HTML, CSS
-Computer Science: Logic Gates, Boolean Algebra, Linear Algebra
-Tools: VS Code, Git & GitHub
-Other: AI Tools and Prompting
-📂 Projects
+- **Class 10th:** 94%
+- **Class 12th:** 91%
+- **Stream:** Humanities with Mathematics
 
-FMCG Demand Analysis – Shampoo
+---
+
+##  Skills
+
+- **Programming:** Python
+- **Web Development:** HTML
+- **Other:** AI Tools and Prompting,Microsoft Excel
+
+---
+
+##  Projects
+
+### FMCG Demand Analysis – Shampoo
 
 An economics project focused on understanding consumer demand for shampoo as an FMCG product.
 
-Studied consumer preferences and factors affecting demand.
-Analysed market segmentation.
-Applied economic concepts to a real-world product market.
+- Studied consumer preferences and factors affecting demand.
+- Analysed market segmentation and factors influencing demand.
+- Applied economic concepts to a real-world product market.
 
-🎯 Career Goal
+---
 
-My long-term goal is to pursue an MBA and develop a career that combines technology, business, finance, and management.
 
-I want to use my background in computer science along with business and analytical skills to understand and solve real-world problems.
+##  Career Goal
 
-💡 Interests
-💻 Technology
-💰 Finance
-🏏 Cricket
-🎵 Music
-📫 Contact
-LinkedIn: https://www.linkedin.com/in/raghav-ahuja-93b959417/
-Email: raghav.26906@sscbs.du.ac.in
+My long-term goal is to **pursue an MBA** and develop a career that combines **technology, business, finance, and management**.
+
+I aim to build a strong foundation in both technical and business skills during my undergraduate journey and use them to solve real-world problems.
+
+---
+
+##  Interests
+
+-  Technology
+-  Finance
+-  Cricket
+-  Music
+
+---
+
+##  Contact
+
+**LinkedIn:** https://www.linkedin.com/in/raghav-ahuja-93b959417/
+
+**GitHub:** 
+
+**Email:** raghav.26906@sscbs.du.ac.in
+
+---
+
+ **Feel free To Connect With Me**
