@@ -70,9 +70,7 @@ I aim to build a strong foundation in both technical and business skills during 
 
 ##  Contact
 
-**LinkedIn:** https://www.linkedin.com/in/raghav-ahuja-93b959417/
-
-**GitHub:** 
+**LinkedIn:** https://www.linkedin.com/in/raghav-ahuja-93b959417/ 
 
 **Email:** raghav.26906@sscbs.du.ac.in
 
